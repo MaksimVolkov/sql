@@ -1,6 +1,3 @@
-# sql
-
-<details><summary>PART 1</summary>
 # First part SQL_DDL.
 
 ## Task №1 "Table employees"
@@ -287,12 +284,3 @@ BEGIN
     END LOOP;
 END $$;
 ```
-</details>
-
-<details><summary>PART 2</summary>
-
-</details>
-
-<details><summary>PART 3</summary>
-
-</details>
